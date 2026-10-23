@@ -1,3 +1,19 @@
+# [1.67.0](https://github.com/forcedotcom/sf-skills/compare/1.66.0...1.67.0) (2026-10-23)
+
+
+### Bug Fixes
+
+* remove obsolete experimental samples blocking Windows checkout @W-24516794@ ([#395](https://github.com/forcedotcom/sf-skills/issues/395)) ([72e1691](https://github.com/forcedotcom/sf-skills/commit/72e1691360c91dec99ca590efe6714581f3f371a))
+
+
+### Features
+
+* @W-24625253@ Release 474 skills (72 new, 400 updated, 2 removed) - sf-skills or headless360Mcp public @W-24535066@ ([3e7da04](https://github.com/forcedotcom/sf-skills/commit/3e7da04a79d2a0ad77d731eae405bda179c944c6))
+* Add the plugin build system to main @W-24586226@ ([e44b500](https://github.com/forcedotcom/sf-skills/commit/e44b5001dbd6faf912387e8633a192b764d77fed))
+* Plugins release 2.5.0 (promotion to main) @W-24557277@ ([625863f](https://github.com/forcedotcom/sf-skills/commit/625863fbdee9cf4647cc964ccf6ea99b71373a83))
+
+
+
 # [1.66.0](https://github.com/forcedotcom/sf-skills/compare/1.65.1...1.66.0) (2026-10-16)
 
 
